@@ -1,2 +1,3 @@
 # Cricket Score Updator
-This program on running will tell us the live score of a cricket match. (To view the other score of other march you need to change the url in the code)
+This program on running will tell us the live score of a cricket match.
+Works only with the link in the code.
